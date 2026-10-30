@@ -1,0 +1,6 @@
+{
+  "name": "CivicAI – From Complaints to Action",
+  "description": "AI-powered civic complaint management platform that transforms scattered citizen complaints into prioritized, explainable, and trackable actions for local authorities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
